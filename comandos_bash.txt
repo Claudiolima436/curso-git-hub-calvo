@@ -7,3 +7,4 @@ mkdir -> Criar nova pasta
 cat -> mostra o que tem dentro do arquivo consultado
 rm -> remove arquivo ou diretório
 rm -rf .git/ -> remove de forma recursiva e forçada todos (tomdiretóriose muito cuidado com este comando, se o fizar em pasta errada, terá problemas)
+ Gustavo Lima
