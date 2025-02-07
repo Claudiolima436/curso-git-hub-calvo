@@ -1,0 +1,8 @@
+ls ->Lista o que há dentro do diretório
+cd -> Muda de diretório
+pwd -> Mosta o caminho absoluto de onde estou
+ls -a -> Mosta as pastas ocultas
+cd .. -> Retorna uma pasta a cima da que se encontra
+mkdir -> Criar nova pasta
+cat -> mostra o que tem dentro do arquivo consultado
+rm -rf .git/ -> apaga a pasta (tome muito cuidado com este comando, se o fizar em pasta errada, terá problemas)
