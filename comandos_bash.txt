@@ -5,4 +5,5 @@ ls -a -> Mosta as pastas ocultas
 cd .. -> Retorna uma pasta a cima da que se encontra
 mkdir -> Criar nova pasta
 cat -> mostra o que tem dentro do arquivo consultado
-rm -rf .git/ -> apaga a pasta (tome muito cuidado com este comando, se o fizar em pasta errada, terá problemas)
+rm -> remove arquivo ou diretório
+rm -rf .git/ -> remove de forma recursiva e forçada todos (tomdiretóriose muito cuidado com este comando, se o fizar em pasta errada, terá problemas)
