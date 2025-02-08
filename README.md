@@ -5,3 +5,5 @@ Acesso totalmente gratuito, tanto pelo Youtube, quanto pelo twitch.
 
 Pessoas participantes:
 Claudio
+Pedro
+Gustavo
