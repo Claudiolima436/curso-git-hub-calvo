@@ -1,7 +1,9 @@
 # Curso Calvo Git & GitHub 2025
 Um curso para que iniciantes tenham acesso as introduções e aprenda a utilizar e trabalhar com versionamento de código e repositórios remotos com GitHub.
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
-Acesso totalmente gratuito, tanto pelo Youtube, quanto pelo twitch.
+Acesso totalmente gratuito, no nosso canal no Youtube, segue o link:
+
+[Curso Git 2025] (https://youtube.com/@teomewhy)
 
 ## Fluxo de trabalho Git local
 1. git checkout -b (nova branch)
