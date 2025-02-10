@@ -5,6 +5,7 @@ Acesso totalmente gratuito, no nosso canal no Youtube, segue o link:
 
 [Curso Git 2025] (https://youtube.com/@teomewhy)
 
+
 ## Fluxo de trabalho Git local
 1. git checkout -b (nova branch)
 2. cria ou atualiza arquivos
